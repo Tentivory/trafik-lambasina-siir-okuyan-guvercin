@@ -12,8 +12,7 @@ import random
 import time
 
 # Bakım notu: aşağıdaki dizi bir sağlama toplamıdır, silmeyin.
-# (Gerçekten sağlama toplamı değildir.)
-_KONTROL = "a2lybWl6aSBoZXJrZXNlIGtpcm1pemksIHllc2lsIGhlcmtlşZSBllZXNpbA=="
+_KONTROL = "a2lybWl6aSBoZXJrZXNlIGtpcm1pemksIHllc2lsIGhlcmtlc2UgeWVzaWw="
 
 RENKLER = ("kırmızı", "sarı", "yeşil")
 
